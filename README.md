@@ -77,4 +77,18 @@ Tools: [Tableau](https://public.tableau.com/views/BellabeatCaseStudy_17183488909
 ![Sheet 5](https://github.com/NurNadhrah/Case-Study-1-Bellabeat-Smart-Device-Usage/assets/153793854/e4f2d336-a123-4339-966e-77e219fda1c7)
 ![Sheet 5 (2)](https://github.com/NurNadhrah/Case-Study-1-Bellabeat-Smart-Device-Usage/assets/153793854/ac98c637-eb10-4a55-8e0d-de411e115225)
 ![Dashboard 6](https://github.com/NurNadhrah/Case-Study-1-Bellabeat-Smart-Device-Usage/assets/153793854/b0e62009-e522-4f24-bc94-8739e4cd877f)
+---
+### **Key Findings**
+1. Less users use sleep monitoring features compared to daily activity tracking.
+2. Most users never or rarely record their weight and BMI.
+3. Sunday is the day with the least average steps and the highest average total minutes asleep.
+4. Pattern shows average calories has a positive correlation to the average steps for each users.
+5. Average sedentary minutes by each user are significantly high compared to very active, lightly active, and fairly active minutes.
+6. We found that Monday is the day with unexpected results of the highest sedentary minutes.
+7. Average sleep by users are widely range between ~ 1 to 10 hours.
+---
+### **Recommendations**
+1. Add message features that show achievement or encouragement to users that improve or maintain good record for daily activity (more analysis need to be conduct to shows healthy record that suitable to each gender and age group).
+2. Add personal goal features that can be customized by users to achieve good sleeping schedule.
+3. Add special notification for users on Sunday to encourage them to do some activity to achieve healthy lifestyle (exercise, hiking, farming, playing sports, etc).
 
