@@ -76,7 +76,7 @@ Tools: [Tableau](https://public.tableau.com/views/BellabeatCaseStudy_17183488909
 ![Dashboard 4](https://github.com/NurNadhrah/Case-Study-1-Bellabeat-Smart-Device-Usage/assets/153793854/bcca4635-766a-4446-bfda-bd8224c7d255)
 ![Sheet 5](https://github.com/NurNadhrah/Case-Study-1-Bellabeat-Smart-Device-Usage/assets/153793854/e4f2d336-a123-4339-966e-77e219fda1c7)
 ![Sheet 5 (2)](https://github.com/NurNadhrah/Case-Study-1-Bellabeat-Smart-Device-Usage/assets/153793854/ac98c637-eb10-4a55-8e0d-de411e115225)
-![Dashboard 6](https://github.com/NurNadhrah/Case-Study-1-Bellabeat-Smart-Device-Usage/assets/153793854/b0e62009-e522-4f24-bc94-8739e4cd877f)
+![Dashboard 6](https://github.com/NurNadhrah/Case-Study-1-Bellabeat-Smart-Device-Usage/assets/153793854/cd981d31-c98d-4f95-9799-d308670facdb)
 ---
 ### **Key Findings**
 1. Less users use sleep monitoring features compared to daily activity tracking.
